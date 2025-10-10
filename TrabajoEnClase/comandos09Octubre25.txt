@@ -1,0 +1,536 @@
+    1  jose toni
+    2  pwd
+    3  ls -l
+    4  cd ..
+    5  ls -l
+    6  cd ls -l
+    7  ls -la
+    8  exit
+    9  exit
+   10  rpm -qa --last
+   11  exit
+   12  rpm -qa --last
+   13  sudo apt rpm
+   14  sudo apt update
+   15  sudo apt install rpm
+   16  sudo apt install rpm -y
+   17  exit
+   18  history
+   19  ls -la
+   20  cd ..
+   21  ls -l
+   22  sudo apt update
+   23  apt-get install git
+   24  sudo apt-get install git
+   25  git --version
+   26  mkdi Canny
+   27  sudo mkdir Canny
+   28  ls -l
+   29  cd Canny
+   30  sudo nano Canny.py
+   31  ls -l
+   32  cd ~/Canny
+   33  cp /mnt/c/Users/josea/OneDrive/Documents/Escritorio/cartas.jpg .
+   34  sudo cp /mnt/c/Users/josea/OneDrive/Documents/Escritorio/cartas.jpg .
+   35  ls -l
+   36  python
+   37  python3
+   38  python3 version
+   39  python3 Canny.py
+   40  pip install opencv
+   41  sudo apt update && sudo apt install python3-pip -y
+   42  pip3 install opencv-python
+   43  sudo pip3 install opencv-python
+   44  sudo apt install python3-pip
+   45  sado apt update
+   46  pip3 install opencv-python
+   47  sudo apt install python3-pip
+   48  pip3 install opencv-python
+   49  sado apt update
+   50  pip3 install opencv-python
+   51  sado apt update
+   52  sudo apt update
+   53  pip3 install opencv-python
+   54  python3 Canny.py
+   55  pip3 install opencv-python
+   56  sudo apt update
+   57  sudo apt install python3-opencv -y
+   58  python3 -c "import cv2; print(cv2.__version__)"
+   59  python3 Canny.py
+   60  ls -l
+   61  nano Canny.py
+   62  sudo nano Canny.py
+   63  python3 Canny.py
+   64  git init
+   65  sudo git init
+   66  git add .
+   67  sudo git add .
+   68  git commit -m "Subir codigo y la imagen"
+   69  sudo git commit -m "Subir codigo y la imagen"
+   70  sudo git branch -M main
+   71  git remote add origin https://github.com/JoseToni23/PruebasToni.git
+   72  sudo git remote add origin https://github.com/JoseToni23/PruebasToni.git
+   73  sudo git push -u origin main
+   74  exit
+   75  jobs
+   76  kill %1
+   77  exit
+   78  cd Canny
+   79  ls -l
+   80  echo "Detector Canny" >> README.md
+   81  sudo echo "Detector Canny" >> README.md
+   82  echo "Detector Canny" | sudo tee -a README.md
+   83  ls -l
+   84  sudo git add README.md
+   85  sudo git commit -m "Añadi archivo readme"
+   86  sudo git puch -u origin main
+   87  sudo git push -u origin main
+   88  cd Canny.py
+   89  nano Canny.py
+   90  sudo nano Canny.py
+   91  sudo git add Canny.py
+   92  git commit -m "Añadi comentarios al codigo"
+   93  sudo git commit -m "Añadi comentarios al codigo"
+   94  sudo git push -u origin main
+   95  mkdir Asistencias
+   96  sudo mkdir Asistencias
+   97  ls -l
+   98  sudo git add Asistencias
+   99  git commit -m "Añadi carpeta de asistencias"
+  100  sudo git commit -m "Añadi carpeta de asistencias"
+  101  git status
+  102  sudo git status
+  103  echo "Carpeta para capturas de asistencias" > asistencias/README.md
+  104  echo "Carpeta para capturas de asistencias" > Asistencias/README.md
+  105  sudo echo "Carpeta para capturas de asistencias" > Asistencias/README.md
+  106  ls -l
+  107  exit
+  108  ls -l
+  109  mkdir Tareas
+  110  ls -l
+  111  cd Tareas
+  112  ls -l
+  113  sudo git add Tareas
+  114  cd ..
+  115  sudo git add Tareas
+  116  cd ..
+  117  ls -l
+  118  cd joseantoniore
+  119  pwd
+  120  cd Canny
+  121  ls -l
+  122  sudo git add Tareas
+  123  mkdir Tareas
+  124  sudo mkdir Tareas
+  125  ls -l
+  126  cp ~/Tareas/Viernes29deAgosto25.png Tareas/
+  127  sudo cp ~/Tareas/Viernes29deAgosto25.png Tareas/
+  128  ls -l
+  129  sudo git add Tareas
+  130  git commit -m "Añadi carpeta de Tareas con captura"
+  131  sudo git commit -m "Añadi carpeta de Tareas con captura"
+  132  sudo git push origin main
+  133  git remove -v
+  134  git remote -v
+  135  git remote set-url origin https://github.com/JoseToni23/Sistemas-Operativos-.git
+  136  sudo git remote set-url origin https://github.com/JoseToni23/Sistemas-Operativos-.git
+  137  git remote -v
+  138  sudo git remote -v
+  139  sudo git add Tareas
+  140  git commit -m "Agregue carpeta de Tareas con captura"
+  141  sudo git commit -m "Agregue carpeta de Tareas con captura"
+  142  sudo chown -R joseantoniore:joseantoniore ~/Canny/Tareas
+  143  git add Tareas
+  144  git config --global --add safe.directory /home/joseantoniore/Canny
+  145  git add Tareas
+  146  sudo chown -R joseantoniore:joseantoniore ~/Canny
+  147  cd ~/Canny
+  148  git add Tareas
+  149  git commit -m "Agregue carpeta Tareas con captura"
+  150  git push origin main
+  151  git pull origin main --rebase
+  152  git push origin main
+  153  exit
+  154  pwd
+  155  cd ..
+  156  cd..
+  157  cd ..
+  158  ls -l
+  159  cd home
+  160  la -l
+  161  cd josetonire
+  162  cd joseantoniore
+  163  ls -l
+  164  cd Tareas
+  165  ls -l
+  166  sudo git commit -m  "Carpeta tareas"
+  167  git add Tareas.git
+  168  ls -l
+  169  cd ..
+  170  ls -l
+  171  Canny
+  172  cd Canny
+  173  ls -l
+  174  mkdir Tareas
+  175  ls -l
+  176  cd Tareas
+  177  ls -l
+  178  cd ~
+  179  git clone https://github.com/JoseToni23/Sistemas-Operativos-.git
+  180  cd Sistemas-Operativos-
+  181  mv ~/Canny/Tareas ./Tareas
+  182  ls -l
+  183  git add Tareas
+  184  git commit -m "Agrego carpeta Tareas con captura"
+  185  sudo git commit -m "Agrego carpeta Tareas con captura"
+  186  git push origin main
+  187  ls -l
+  188  cd Asistencia
+  189  cd ..
+  190  mkdir TrabajoEnClase
+  191  ls -l
+  192  gir add TrabajoEnClase
+  193  git add TrabajoEnClase
+  194  sudo git commit -m "Agrego carpeta de TrabajoEnClase"
+  195  git add TrabajoEnClase
+  196  sudo git commit -m "Agrego carpeta de TrabajoEnClase"
+  197  git push origin main
+  198  ls -l
+  199  cd Asistencia
+  200  ls -l
+  201  git add Viernes19Septiembre25.png
+  202  sudo git commit -m "Agrego asistencia del Viernes19Septiembre25"
+  203  git push origin main
+  204  ls -l
+  205  git add Jueves18Septiembre25.1.png
+  206  sudo git commit -m "Agrego asistencia del Jueves18Septiembre25.1"
+  207  git push origin main
+  208  git add Jueves18Septiembre25.2.png
+  209  sudo git commit -m "Agrego asistencia del Jueves18Septiembre25.2"
+  210  git push origin main
+  211  exit
+  212  ls -l
+  213  cd ..
+  214  ls -l
+  215  cd joseantoniore
+  216  cd Canny
+  217  ls -l
+  218  cd ..}
+  219  cd ..
+  220  ls -l
+  221  cd Sistemas-Operativos-
+  222  ls -l
+  223  cd Asistencia
+  224  ls -l
+  225  git add Jueves02Octubre25.png
+  226  git commit -m "Subo asistencia del dia Jueves 02 de Octubre del 2025"
+  227  sudo git commit -m "Subo asistencia del dia Jueves 02 de Octubre del 2025"
+  228  git push origin main
+  229  git push
+  230  git push -u origin main
+  231  git push -u origin main
+  232  git add Jueves02Octubre25.png
+  233  sudo git commit -m "Subo asistencia del dia Jueves 02 de Octubre del 2025"
+  234  git push -u origin main
+  235  ping github.com
+  236  git push -u origin main
+  237  git --help
+  238  git push -u origin main
+  239  sudo apt-get update
+  240  sudo apt install iptables
+  241  iptables -P INPUT DROP
+  242  sudo iptables -P INPUT DROP
+  243  sudo iptables -P FORWARD DROP
+  244  sudo iptables -P OUTPUT ACCEPT
+  245  sudo iptables -l
+  246  sudo iptables /l
+  247  sudo iptables -F INPUT
+  248  sudo iptables -F FORWARD
+  249  sudo iptables -F OUTPUT
+  250  sudo iptables -F -t nat
+  251  sudo iptables -l
+  252  sudo iptables -L
+  253  sudo iptables -T nat
+  254  sudo iptables -F OTPUT
+  255  sudo iptables -F OUTPUT
+  256  sudo iptables -F FORWARD
+  257  sudo iptables -F INPUT
+  258  sudo iptables -F -t nat
+  259  sudo cat /etc/passwd
+  260  ls -l
+  261  cd Sistemas-Operativos-
+  262  ls -l
+  263  cd Asistencia
+  264  ls -l
+  265  git add Jueves02Octubre25.png
+  266  git commit "Agrego captura de mi asistencia del dia Jueves02Octubre25.png"
+  267  git commit -m "Agrego captura de mi asistencia del dia Jueves02Octubre25.png"
+  268  git config --global user.name "JoseAntonio"
+  269  git config --global user.email "jose777toni@gmail.com"
+  270  git config --list
+  271  git add Jueves02Octubre25.png
+  272  git commit -m "Agrego captura de mi asistencia del dia Jueves02Octubre25.png"
+  273  git push -u origin main
+  274  sudo chown -R joseantoniore:joseantoniore .git
+  275  cd ..
+  276  ls -a
+  277  sudo chown -R joseantoniore:joseantoniore .git
+  278  cd Asistencia
+  279  git add Jueves02Octubre25.png
+  280  git commit -m "Agrego captura de mi asistencia del dia Jueves02Octubre25.png"
+  281  git push -u origin main
+  282  ping -c 4 8.8.8.8
+  283  sudo nano /etc/resolv.conf
+  284  sudo nano /etc/wsl.conf
+  285  sudo rm /etc/resolv.conf
+  286  sudo nano /etc/resolv.conf
+  287  wsl --shutdown
+  288  ping -c 4 github.com
+  289  cd ~/Sistemas-Operativos-/Asistencia
+  290  git push -u origin main
+  291  git pull --rebase origin main
+  292  git push -u origin main
+  293  cd ..
+  294  ls -l
+  295  cd TrabajoEnClase
+  296  ls -l
+  297  git add "Examen_1P_Jose Antonio Revision.pdf"
+  298  git commit -m "Subo la revision del PDF Examen 1P de Jose Antonio"
+  299  git push -u origin main
+  300  ls -l
+  301  cd Sistemas-Operativos-
+  302  ls -l
+  303  cd Asistencia
+  304  ls -l
+  305  git add Viernes03Octubre25.png
+  306  git commit -m "Agrego captura de Asistencia Viernes03Octubre25.png"
+  307  git push -u origin main
+  308  git push  origin main
+  309  git push origin main
+  310  git push 
+  311  git push origin main
+  312  git push -u origin main
+  313  iptables -L
+  314  sudo iptables -L
+  315  sudo iptables -L -v
+  316  sudo iptables -nL
+  317  ufw
+  318  sudo apt-get install ufw
+  319  sudo iptables -nL
+  320  sudo apt-get update
+  321  sudo iptables -P INPUT DROP
+  322  sudo iptables -L -v
+  323  sudo iptables -nL
+  324  sudo iptables -L
+  325  sudo iptables -A FORWARD -i eth1 -o eth0 -j ACCEPT
+  326  sudo iptables -L -v
+  327  sudo iptables -A INPUT -i eth1 -o eth0 -j DROP
+  328  sudo iptables -A INPUT -i eth1 -o eth0 -j ACCEPT
+  329  sudo iptables -A INPUT -i eth1 -j ACCEPT
+  330  sudo iptables -L -v
+  331  sudo iptables -A INPUT -i eth1 -j DROP
+  332  sudo iptables -L -v
+  333  sudo iptables -A FORWARD -i eth1 -m state --state ESTABLISHED, RELATED -j ACCEPT
+  334  sudo iptables -A FORWARD -i eth0 -o eth1 -m state --state ESTABLISHED,RELATED -j ACCEPT
+  335  sudo iptables -L -v
+  336  sudo iptables -A INPUT -i eth0 -o eth1 -m state --state ESTABLISHED,RELATED -j ACCEPT
+  337  sudo iptables -A INPUT -i eth0 -m state --state ESTABLISHED,RELATED -j ACCEPT
+  338  sudo iptables -A OUTPUT -i eth0 -o eth1 -m state --state ESTABLISHED,RELATED -j ACCEPT
+  339  sudo iptables -A OUTPUT -i eth0 -m state --state ESTABLISHED,RELATED -j ACCEPT
+  340  sudo iptables -A OUTPUT -o eth1 -m state --state ESTABLISHED,RELATED -j ACCEPT
+  341  sudo iptables -L -v
+  342  sudo iptables -A INPUT -i eth0 -m state --state ESTABLISHED,RELATED -j ACCEPT
+  343  sudo iptables -L -v
+  344  sudo iptables -A INPUT -i eth1 -s 0/0 -j ACCEPT
+  345  sudo iptables -L -v
+  346  iptables -A INPUT -i eth1 -s 0/0 -d 0/0 -j ACCEPT
+  347  sudo iptables -A INPUT -i eth1 -s 0/0 -d 0/0 -j ACCEPT
+  348  sudo iptables -A INPUT -i lo -s 0/0 -d 0/0 -j ACCEPT
+  349  sudo iptables -L -v
+  350  iptables -A POSTROUTING -t nat -s 192.168.0.0/24 -o eth0 -j SNAT --to-source x.y.z.c
+  351  iptables -A POSTROUTING -t nat -s 192.168.0.0/24 -o eth0 -j SNAT --to-source 1.1.1.1
+  352  sudo iptables -A POSTROUTING -t nat -s 192.168.0.0/24 -o eth0 -j SNAT --to-source 1.1.1.1
+  353  sudo iptables -L -v
+  354  sudo iptables -L
+  355  sudo iptables -nL
+  356  sudo iptables -t nat -L -v 
+  357  sudo iptables -A PREROUTING -t nat -s 192.168.0.0/24 -o eth0 -j SNAT --to-source 1.1.1.1
+  358  sudo iptables -A PREROUTING -t nat -s 192.168.0.0/24 -i eth0 -j SNAT --to-source 1.1.1.1
+  359  sudo iptables -A PREROUTING -t nat -s 192.168.0.0/24 -i eth0 -j DNAT --to-source 1.1.1.1
+  360  sudo iptables -A INPUT -t nat -s 192.168.0.0/24 -i eth0 -j DNAT --to-source 1.1.1.1
+  361  sudo iptables -A INPUT -t nat -s 192.168.0.0/24 -i eth0 -j SNAT --to-source 1.1.1.1
+  362  sudo iptables -A OUTPUT -t nat -s 192.168.0.0/24 -o eth0 -j SNAT --to-source 1.1.1.1
+  363  sudo iptables -t nat -L -v 
+  364  sudo iptables -A INPUT -p tcp -s 0/0 -d 0/0 --destination-port 25 --syn -j ACCEPT
+  365  sudo iptables -A INPUT -p tcp -s 0/0 -d 0/0 --destination-port 80 --syn -j ACCEPT
+  366  sudo iptables -A INPUT -p tcp -s 0/0 -d 0/0 --destination-port 443 --syn -j ACCEPT
+  367  sudo iptables -A INPUT -p tcp -s 0/0 -d 0/0 --destination-port 22 --syn -j ACCEPT
+  368  sudo iptables -L -v
+  369  sudo iptables -A INPUT -p tcp -s 0/0 -d 0/0 --destination-port 110 --syn -j ACCEPT
+  370  sudo iptables -A INPUT -p tcp -s 0/0 -d 0/0 --destination-port 995 --syn -j ACCEPT
+  371  sudo iptables -A INPUT -p tcp -s 0/0 -d 0/0 --destination-port 143 --syn -j ACCEPT
+  372  sudo iptables -A INPUT -p tcp -s 0/0 -d 0/0 --destination-port 993 --syn -j ACCEPT
+  373  sudo iptables -L -v
+  374  sudo iptables -A INPUT -i eth1 -p udp --sport 68 --dport 67 -j ACCEPT
+  375  sudo iptables -L -v
+  376  sudo iptables -A INPUT -p udp -s 200.33.146.217/32 --source-port 53 -d 0/0 -j ACCEPT
+  377  sudo iptables -L -v
+  378  iptables -A INPUT -p tcp --destination-port 22 -j DROP
+  379  sudo iptables -A INPUT -p tcp --destination-port 22 -j DROP
+  380  sudo iptables -A INPUT -p udp --destination-port 23 -j DROP
+  381  sudo iptables -L -v
+  382  sudo iptables -A INPUT -s 200.33.145.217 -j DROP
+  383  sudo iptables -L -v
+  384  sudo iptables -A OUTPUT -d 200.33.145.217 -s 192.168.0.0/24 -j REJECT
+  385  sudo iptables -L -v
+  386  iptables -A INPUT -s 200.33.145.217 -j DRO
+  387  sudo iptables -A INPUT -s 200.33.145.217 -j DROP
+  388  sudo iptables -D INPUT -s 200.33.145.217 -j DROP
+  389  sudo iptables -L -v
+  390  sudo iptables -D INPUT -s 200.33.145.217 -j DROP
+  391  sudo iptables -L -v
+  392  sudo iptables -nL
+  393  sudo service iptables save
+  394  service iptables save
+  395  sudo systemctl iptables save
+  396  sudo apt install iptables-persistent
+  397  service iptables save
+  398  sudo service iptables save
+  399  clean
+  400  clear
+  401  crone d status
+  402  sudo cr d status
+  403  sudo ps -ef grep CRONE
+  404  sudo ps -ef | grep CRONE
+  405  sudo cronetab -e
+  406  sudo crontab -e
+  407  sudo crontab
+  408  sudo crontab -e
+  409  sudo iptables -L -v
+  410  ls -l
+  411  cd Sistemas-Operativos-
+  412  ls -l
+  413  cd TrabajoEnClase
+  414  ls -l
+  415  git add Viernes03Octubre25.png
+  416  git commit -m "Agrego TrabajoEnClase del Viernes03Octubre25.png"
+  417  git push -u origin main
+  418  sudo iptables -L
+  419  CLEAR
+  420  clear
+  421  sudo iptables -L -v -n
+  422  clear
+  423  sudo iptables -L
+  424  sudo iptables -A INPUT -s 192.168.100.50 -j DROP
+  425  sudo iptables -A INPUT -p tcp --dport 80 -j DROP
+  426  clear
+  427  sudo iptables -L
+  428  clear
+  429  sudo iptables -D INPUT -p tcp --dport 80 -j DROP
+  430  clear
+  431  sudo iptables -L
+  432  clear
+  433  ls -l
+  434  cd Sistemas-Operativos-
+  435  ls -l
+  436  cd Tareas
+  437  ls -l
+  438  git add Jueves09Octubre25.pdf
+  439  git commit -m "Entrego la tarea sobre IPTABLES del Jueves09Octubre25"
+  440  git push origin main
+  441  exit
+  442  exit
+  443  uptime
+  444  time
+  445  top
+  446  top -d 3
+  447  top -d 5
+  448  top 1
+  449  1
+  450  top
+  451  top -b
+  452  top -u
+  453  top -u root
+  454  top
+  455  top -b 1
+  456  top -d 1
+  457  top n
+  458  top
+  459  ps
+  460  ps -e
+  461  ps -u root
+  462  ps -o 
+  463  ps -o s
+  464  ps -o l
+  465  ps -l
+  466  ps -s
+  467  ps -m
+  468  ps -t
+  469  ps -a
+  470  ps -x
+  471  ps -aux
+  472  ps --forest
+  473  ps tree
+  474  pstree
+  475  clear
+  476  vmstat
+  477  vmstat -a
+  478  vmstat -f
+  479  vmstat -d
+  480  vmstat n
+  481  vmstat 2
+  482  vmstat 1
+  483  vmstat 5
+  484  vmstat 0.1
+  485  vmstat 0,1
+  486  vmstat -s
+  487  free
+  488  free -s t
+  489  free -s 2
+  490  free -c 3
+  491  free -c 5
+  492  free -c 1
+  493  free -t 
+  494  free -l 
+  495  clear
+  496  df
+  497  df -h
+  498  df -i
+  499  df -m
+  500  df -T
+  501  df -df -T
+  502  df -df -T ht/home
+  503  clear
+  504  du /home
+  505  cd ..
+  506  ls -l
+  507  du /home
+  508  du -h
+  509  df -i
+  510  du -i
+  511  du -h /home
+  512  du -ssh /home
+  513  du -sh /home
+  514  du -m /home
+  515  du -k /home
+  516  du -hall
+  517  du -all
+  518  history
+  519  clear
+  520  cat /etc/shells
+  521  which bash
+  522  sudo su
+  523  sudo nano primer.sh
+  524  ls -l
+  525  sudo chmod +x primer.sh
+  526  ls -l
+  527  ./primer.sh
+  528  sudo nano primer.sh 
+  529  ./primer.sh
+  530  clear
+  531* sudo nano actu
+  532  sudo chmod +x actualizar.sh
+  533  ./actualizar.sh
+  534  sudo history > comandos09Octubre25.txt
+  535  cd joseantoniore
+  536  history > comandos09Octubre25.txt
